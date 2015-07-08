@@ -1,4 +1,4 @@
 # Summary
 
-* zh/start/history
+* [zh/start/history](zhstarthistory.md)
 
